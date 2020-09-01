@@ -43,7 +43,7 @@
             metfar@gmail.com    
                                     
 ## Examples
-
+<code>
  $ ./generatePass.py -R
                     TIME    HASH
                     ----    ----
@@ -78,7 +78,7 @@
      2020-09-01 18:05:03    76898049 [8, 8, 1, 1, 1, 1, False, False, False, True]
      2020-09-01 18:21:20    #9bhp*7*FjfE=9:gya%x6@ysN-vq* [8, 32, 1, 1, 1, 1, True, True, True, True]
         
-
+</code>
 ## Repository
 
   - Full project <https://github.com/metfar/generatePass.py>
