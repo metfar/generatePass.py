@@ -1,12 +1,16 @@
 # generatePass.py
 
-    Strong password generator in Python.
+    Parametric strong password generator in Python.
     
-## Quick example
+## Quick examples
 
   > python3 generatePass.py --S -g
 
     OG6gxHMP9vXta
+  
+  > ./generatePass.py -m16 -M16 --S -g
+
+    8H4203hTkIDos6TZ
 
 ## Help
 
